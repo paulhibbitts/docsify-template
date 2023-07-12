@@ -8,7 +8,7 @@ The quickest way to get a Docsify site up and running is with GitHub Pages:
 
 1. Log into GitHub if you have not done so already
 2. Tap the **Use this template** button in the upper-right of this GitHub Repository and choose **Create a new repository**
-3. Enter a name for your new Repository and then tap the **Create repository from template** button
+3. Enter a name for your new Repository and then tap the **Create repository** button
 4. Once your new Repostitory is created go to **Settings -> Pages** and under **Branch** choose **main** and then tap the **Save** button
 5. Wait a minute or two and refresh this page - a link to view the resulting GitHub Pages site should then be displayed
 
