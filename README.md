@@ -8,6 +8,6 @@ Want to get going quickly? Tap the green "Use this template" button in the upper
 
 Alternatively, upload the files to any static web server. Or run `npx serve .` (Node.js users) or `python -m http.server 8000` (Python users) in the repo to serve run locally.
 
-## Docsify
+## Docsify Documentation
 
 To learn more about using Docsify, visit https://docsify.js.org
