@@ -1,4 +1,4 @@
-# Simple Docsify Template
+# Docsify Template
 
 > A simple Docsify template that requires no build steps.
 
