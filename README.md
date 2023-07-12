@@ -4,7 +4,13 @@
 
 ## Setup
 
-Want to get going quickly using just GitHub Pages? Once logged into GitHub tap the green **Use this template** button in the upper-right of this GitHub Repository, choose **Create a new repository**, then once you have created your own Repostitory go to **Settings -> Pages** and under **Branch** choose **main** and then tap **Save**. Wait a minute or two and refresh this page - a link to view the resulting GitHub Pages site should then be displayed.
+The quickest way to get a Docsify site up and running is with GitHub Pages:  
+
+1. Log into GitHub if you have not done so already
+2. Tap the **Use this template** button in the upper-right of this GitHub Repository and choose **Create a new repository**
+3. Enter a name for your new Repository and then tap the **Create repository from template** button
+4. Once your new Repostitory is created go to **Settings -> Pages** and under **Branch** choose **main** and then tap the **Save** button
+5. Wait a minute or two and refresh this page - a link to view the resulting GitHub Pages site should then be displayed
 
 Alternatively, upload the files to any static web server. Or run `npx serve .` (Node.js users) or `python -m http.server 8000` (Python users) in the repo to serve run locally.
 
