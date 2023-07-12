@@ -1,6 +1,6 @@
 # Docsify Template
 
-> A simple Docsify template that requires no build process.
+> A simple [Docsify](https://github.com/docsifyjs/docsify/) template that requires no build process.
 
 ## Setup
 
