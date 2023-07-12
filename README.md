@@ -20,4 +20,4 @@ How about editing the content of your new Docsify site? All you need to do is ed
 
 ## Docsify Documentation
 
-To learn more about using Docsify, visit https://docsify.js.org
+To learn more about using Docsify, visit https://docsify.js.org.
