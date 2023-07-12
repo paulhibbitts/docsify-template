@@ -10,7 +10,7 @@ The quickest way to get a Docsify site up and running is with GitHub Pages:
 2. Tap the **Use this template** button in the upper-right of this GitHub Repository and choose **Create a new repository**
 3. Enter a name for your new Repository and then tap the **Create repository** button
 4. Once your new Repostitory is created go to **Settings**, then select **Pages** from the left-hand sidebar, and under **Branch** choose **main** and then tap the **Save** button
-5. Wait a minute or two and refresh the same **Pages** page - once your site is ready the link **Visit site** should be displayed
+5. Wait a minute or two and refresh the same **Pages** page - once your site is ready the button **Visit site** will be displayed
 
 Alternatively, upload the files to any static web server. Or run `npx serve .` (Node.js users) or `python -m http.server 8000` (Python users) in the repo to serve run locally.
 
