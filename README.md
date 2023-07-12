@@ -1,6 +1,6 @@
 # Docsify Template
 
-> A simple Docsify template that requires no build steps.
+> A simple Docsify template that requires no build process.
 
 ## Setup
 
