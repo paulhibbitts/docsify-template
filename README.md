@@ -10,7 +10,7 @@ Alternatively, upload the files to any static web server. Or run `npx serve .` (
 
 ## Editing Content
 
-Want to update the content of your new Docsify site? All you need to do is edit the source Markdown page, commit any changes, and in just a few moments the Docsify site will be automatically updated to reflect those changes!
+Want to update the content of your new Docsify site? All you need to do is edit the source Markdown page **README.md** by taping the pencil (edit) icon, saving any changes by taping the green **Commit changes...** button, and in just a few moments the Docsify site will be automatically updated to reflect those changes!
 
 ## Docsify Documentation
 
