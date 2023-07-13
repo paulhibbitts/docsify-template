@@ -10,7 +10,7 @@
   <title>Docsify</title>
 
   <!-- Default Theme -->
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/buble.css">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
 
 </head>
 
@@ -22,6 +22,14 @@
     window.$docsify = {
       name: 'Simple Docsify Template',
 
+      // Sidebar Configuration
+      auto2top: true,
+      loadSidebar: true,
+      maxLevel: 3,
+      // Set subMaxLevel to 0 to remove automatic display of page table of contents (TOC) in Sidebar
+      subMaxLevel: 0,
+
+      // Search Plugin Configuration
       search: {
         placeholder: 'Type to search',
         noData: 'No matches found.',
